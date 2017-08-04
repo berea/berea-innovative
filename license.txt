@@ -1,0 +1,1 @@
+This is where the license will go, as it is good coding practice. I will let Dan figure out the specifics later. TODO: Update license once Dan gives it to me.

@@ -1,0 +1,1 @@
+This is a work in progress for the Website Berea Innovative. Do not clone or download yet, as it is not ready for production. TODO: Add more text based stuff and description here once I get stuff to add
